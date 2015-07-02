@@ -1,7 +1,13 @@
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
+/.idea
 .DS_Store
 /build
 /captures
+Country.iml
+gradlew
+gradlew.bat
+app/app.iml
+app/proguard-rules.pro
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
